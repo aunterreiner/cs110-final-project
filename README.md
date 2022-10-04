@@ -86,7 +86,6 @@ The Project is broken down into the following file structure:
 ***
 
 ## Tasks and Responsibilities *(Software Lead)*
-* You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
 ### Software Lead - Nolan Smithers
 
