@@ -14,7 +14,7 @@ https://docs.google.com/presentation/d/1Hrg1JD_5lIif12mqWpreXv9HraxGVm0e-0BmkCVT
 ***
 
 ## Project Description *(Software Lead)*
-Our project is a galaga/space defenders-like arcane shooter, where the user defends against space aliens. The enemies move down the screen and fire at the player, causing a game-over scenario if they either shoot the player, reach the bottom of the screen or collide with the player. The user can move across the screen and fire at the aliens to destroy them. If they succeed in clearing the enemies from the screen, the level increases, more enemies are spawned and they fire with higher shot frequency. This continues until one of the previously mentioned game over conditions is met.
+Our project is a Galaga/space defenders-like arcane shooter, where the user defends against space aliens. The enemies move down the screen and fire at the player, causing a game-over scenario if they either shoot the player, reach the bottom of the screen or collide with the player. The user can move across the screen and fire at the aliens to destroy them. If they succeed in clearing the enemies from the screen, the level increases, more enemies are spawned and they fire with higher shot frequency. This continues until one of the previously mentioned game over conditions is met.
 
 ***    
 
@@ -23,8 +23,7 @@ Our project is a galaga/space defenders-like arcane shooter, where the user defe
 Once the player inputs their name the game will switch to the game over screen. If the player's score was within the top 10 scores then it will be added to the leaderboard. The player then has the option to play again by clicking the restart button.
 * ![start_and_game](assets/prelimSketchs/StartAndGameScreen.jpg)
 The start screen for our game. The start button shown underneath the title will bring you to the game animation once clicked.
-Mid game screenshot. The enemies are animated and shoot at the player. The player can move left to right and shoot bullets at the enemies. The score increases as they destroy enemies and once all of the enemies have been destroyed, a new level starts.
-    * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
+Mid-game screenshot. The enemies are animated and shoot at the player. The player can move left to right and shoot bullets at the enemies. The score increases as they destroy enemies and once all of the enemies have been destroyed, a new level starts.
 * ![final_end](assets/finalGUI/finalEnd.png)
 * ![final_game](assets/finalGUI/finalGame.png)
 * ![final_name](assets/finalGUI/finalName.png)
@@ -41,7 +40,6 @@ Mid game screenshot. The enemies are animated and shoot at the player. The playe
 * Class Interface Design
     * ![class_features](assets/classDiagrams/ClassStructures.jpg)
         * ![class_diagram](assets/classDiagrams/class_diagram.jpg)
-    * This does not need to be overly detailed but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
     * class Controller: controls all interactions between classes
     * class Enemy: an enemy that moves in one direction
