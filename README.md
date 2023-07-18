@@ -14,7 +14,7 @@ https://docs.google.com/presentation/d/1Hrg1JD_5lIif12mqWpreXv9HraxGVm0e-0BmkCVT
 ***
 
 ## Project Description *(Software Lead)*
-Our project is a galaga/space defenders like arcane shooter, where the user defends against space aliens. The enemies move down the screen and fire at the player, causing a game over scenario if they either shoot the player, reach the bottom of the screen or collide with the player. The user can move across the screen and fire at the aliens to destroy them. If they succeed in clearing the enemies from the screen, the level increases, more enemies are spawned and they fire with higher shot frequency. This continues until one of the previously mentioned game over conditions is met.
+Our project is a galaga/space defenders-like arcane shooter, where the user defends against space aliens. The enemies move down the screen and fire at the player, causing a game-over scenario if they either shoot the player, reach the bottom of the screen or collide with the player. The user can move across the screen and fire at the aliens to destroy them. If they succeed in clearing the enemies from the screen, the level increases, more enemies are spawned and they fire with higher shot frequency. This continues until one of the previously mentioned game over conditions is met.
 
 ***    
 
@@ -41,11 +41,11 @@ Mid game screenshot. The enemies are animated and shoot at the player. The playe
 * Class Interface Design
     * ![class_features](assets/classDiagrams/ClassStructures.jpg)
         * ![class_diagram](assets/classDiagrams/class_diagram.jpg)
-    * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
+    * This does not need to be overly detailed but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
     * class Controller: controls all interactions between classes
-    * class Enemy: enemy that moves in one direction
-    * class Player: user controlled class that moves left and right
+    * class Enemy: an enemy that moves in one direction
+    * class Player: user-controlled class that moves left and right
     * class Projectile: the projectile class that the player fires
     * class HostileProjectile: the projectile class that the enemies fire
 
