@@ -21,8 +21,8 @@ Our project is a Galaga/space defenders-like arcane shooter, where the user defe
 ## User Interface Design *(Front End Specialist)*
 ![game_over_and_high_score](assets/prelimSketchs/GameOverAndHighScore.jpg)
 * Once the player inputs their name the game will switch to the game over screen. If the player's score was within the top 10 scores then it will be added to the leaderboard. The player then has the option to play again by clicking the restart button.
-* ![start_and_game](assets/prelimSketchs/StartAndGameScreen.jpg)
-The start screen for our game. The start button shown underneath the title will bring you to the game animation once clicked.
+![start_and_game](assets/prelimSketchs/StartAndGameScreen.jpg)
+* The start screen for our game. The start button shown underneath the title will bring you to the game animation once clicked.
 Mid-game screenshot. The enemies are animated and shoot at the player. The player can move left to right and shoot bullets at the enemies. The score increases as they destroy enemies and once all of the enemies have been destroyed, a new level starts.
 * ![final_end](assets/finalGUI/finalEnd.png)
 * ![final_game](assets/finalGUI/finalGame.png)
